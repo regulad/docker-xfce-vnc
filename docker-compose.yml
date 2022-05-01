@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: ghcr.io/dbushell/vnc
+    image: ghcr.io/regulad/docker-xfce-vnc
     restart: unless-stopped
     volumes:
       - /dev/shm:/dev/shm

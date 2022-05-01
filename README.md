@@ -12,26 +12,25 @@ Connect VNC client to `localhost:5901` (default password: `password`).
 
 ## Install Browsers
 
+Browsers are preinstalled, for your convenience.
+
 Run in terminal from the user home directory.
 
 **Firefox:**
 
 ```sh
-./firefox.sh
-fireox
+firefox
 ```
 
 **Brave:**
 
 ```sh
-./brave.sh
 brave-browser
 ```
 
 **Edge:**
 
 ```sh
-./edge.sh
 microsoft-edge-dev
 ```
 

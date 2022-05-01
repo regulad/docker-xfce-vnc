@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo apt update
+apt update
 
-sudo apt install -y firefox
+apt install -y firefox
